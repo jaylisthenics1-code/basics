@@ -1,0 +1,167 @@
+.subscribe-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 10px;
+  border-radius: 2px; 
+  border-width: 1px;
+  margin-right: 10px;
+  transition: opacity 0.15s;
+}
+  .subscribe-button:hover {
+    opacity: 0.8;
+    }
+    .subscribe-button:active {
+      opacity: 0.5;
+      
+      }
+  .join-button {
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    padding-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    border-width: 1px;
+    transtion: background-color 0.15s, color 0.15s;
+   
+    }
+    .join-button:hover{
+      background-color: rgb(41, 118, 211);
+      color: white;
+      }
+    .join-button:active{
+      opacity: 0.7;
+      }
+    .tweet-button{
+      background-color: rgb(2, 158, 255);
+      color: white;
+      border: none;
+      border-radius: 18px;
+      padding-left: 15px;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      padding-right: 15px;
+      font-weight: bold;
+      font-size: 15px;
+      margin-left: 10px;
+      transition: box-shadow 0.15s;
+      }
+      .tweet-button:hover{
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.15)
+        }
+      
+      .requestnow-button {
+        background-color: black;
+        color: white;
+        border: none;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: absolute;
+        top: 50px;
+        left: 8px;
+       }
+       .requestnow-button:hover{
+         background-color: gray;
+         color: white;
+         }
+      
+      .amazon-button{
+        color: black;
+        background-color: rgb(255, 216, 20);
+        border: none;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 40px;
+        padding-left: 40px;
+        border-radius: 20px;
+        }
+        
+        .github-button {
+          color: white;
+          background-color: rgb(46, 164, 79);
+          border: none;
+          font-weight: bold;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          padding-right: 20px;
+          padding-left: 20px;
+          border-radius: 5px;
+          font-size: 15px;
+          }
+          
+          .boot-button {
+            color: white;
+            font-weight: bold;
+            background-color: rgb(121,82,179);
+            border: none;
+            border-radius: 3px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-right: 20px;
+            padding-left: 20px;
+            position: absolute;
+            top: 50px;
+            left: 120px;
+        
+            }
+      
+      .download-button{
+        background-color: white;
+        color: rgb(108,117,125);
+        border-width: 1px;
+        border-color: rgb(108,117,125);
+        border-radius: 2px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
+        font-weight: bold;
+        border-style: solid;
+        position: absolute;
+        top: 50px;
+        left: 230px; 
+        }
+        
+        .link-button{
+          color: white;
+          font-weight: bold;
+          background-color: rgb(10,102,194);
+          border: none;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          padding-right: 20px;
+          padding-left: 20px;
+          border-radius: 15px;
+          position: absolute;
+          top: 100px;
+          left: 8px;
+          }
+          
+          .save-button{
+            background-color: white;
+            color: rgb(10,102,194);
+            border-width: 1px;
+            font-weight: bold;
+            border-color: rgb(10,102,194);
+            border-style: solid;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-right: 20px;
+            padding-left: 20px;
+            border-radius: 15px;
+            position: absolute;
+            top: 50px;
+            left: 330px;
+           
+             
+            
+         
+            }
